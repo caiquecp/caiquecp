@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 (it's default by I like it)
 
-<!--
-**caiquecp/caiquecp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Caique, 28yo. I have been working as a software engineer for the past 8 years.
 
-Here are some ideas to get you started:
+Currently working at Luizalabs (one of the biggest retail companies in Brazil) and also at ToolboxDev (my side project company).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my career I have worked as full-stack engineer, although I've been focusing way more on backend.
+
+#### ToolboxDev
+
+I'm building apps to support tabletop RPG / boardgame players. Take a look at [ToolboxDev](https://www.toolboxdev.site/) to check my apps.
+
+#### Technologies and skills
+
+- Python, JavaScript, FastAPI, React
+- Web development, software architecture
+- Application containerization, Kubernetes, Cloud, GCP
+- Code review, process and system documentation
+- Back-end, full-stack
