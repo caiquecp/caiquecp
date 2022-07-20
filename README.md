@@ -1,4 +1,4 @@
-### Hi there 👋 (it's default by I like it)
+### Hi there 👋
 
 I'm Caique, 28yo. I have been working as a software engineer for the past 8 years.
 
