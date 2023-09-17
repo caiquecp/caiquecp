@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Caique, 28yo. I have been working as a software engineer for the past 8 years.
+I'm Caique, 29yo. I have been working as a software engineer for the past 10 years.
 
 Currently working at Luizalabs (one of the biggest retail companies in Brazil) and also at ToolboxDev (my side project company).
 
